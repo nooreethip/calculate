@@ -1,0 +1,23 @@
+.Calculator{
+    margin-bottom: 10px;
+    text-align:center;
+    width: 210px;
+    color:green;
+    border: solid black 2px;
+    }
+
+    input[type="button"]
+    {
+    background-color:rgb(235, 183, 240);
+    color: black;
+    border: solid black 2px;
+    width:100%
+    }
+
+    input[type="text"]
+    {
+    background-color:white;
+    border: solid black 2px;
+    width:100%
+    }
+    
